@@ -10,7 +10,8 @@ Private chat features and an online code editor
 05. Apply to jobs posted by the HR's
 06. Server checks users only can delete their own posts,blogs,jobs and comments.
 07. Only HR's posted the jobs can see applicants and can delete it.
-08. Advance alert system, Validation checks, encryption, Private Route, Responsiveness,
+8. Create doccuments and store them in the database for furthur use also implemented by socket.io so that multiple usres can render at the same point of time
+9. Advance alert system, Validation checks, encryption, Private Route, Responsiveness,
 Tech stacks: MERN-stack, JWT-token, API's
 
 
