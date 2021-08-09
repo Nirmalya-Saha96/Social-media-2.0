@@ -25,7 +25,7 @@ export default function TextEditor() {
 
   // Setting up the connection to server
   useEffect(() => {
-    const s = io('https://hidden-escarpment-02618.herokuapp.com/');
+    const s = io('enter socket srever');
     setSocket(s);
     return () => {
       s.disconnect();
